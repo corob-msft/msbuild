@@ -15,7 +15,7 @@ labels:
 * Tips & Tricks: https://github.com/microsoft/msbuild/blob/master/documentation/wiki/MSBuild-Tips-%26-Tricks.md
 -->
 
-### Issue Description
+### Issue Description 
 <!--
 * Please include a clear and concise description of the problem.
 -->
